@@ -1,0 +1,3 @@
+Este es un slider automatico que cambia de imagen cada 15 segundos, se pueden cambiar las imagenes y el texto que contiene cada imagen, espero les ayude en algo y pueda servirles :)
+
+This is an automatic slider that changes the image every 15 seconds, you can change the images and the text that each image contains, I hope it helps you in something and can help you :)
