@@ -1,0 +1,41 @@
+.bod{
+    background-color: #c2f8cb;
+    /* justify-content: center;
+    display: flex;*/
+}
+
+h1{
+    background-color: #5603ad;
+    width: 500px;
+    text-align: center;
+    border: 8px solid #8367c7;
+    border-radius: 35px;
+    padding: 10px;
+   
+}
+
+.titulo{
+    margin: 10px;/*Descartado*/
+    color: #8367c7;/*Descartado*/
+    font-size: 60px;/*Descartado*/
+}
+
+.div{
+    display: inline;
+}
+
+.sub{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.opt{
+    text-align: center;
+}
+
+.contenido{
+    margin-left: 120px;
+    width: 300px;
+}

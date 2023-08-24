@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+table,td,tr,th{  
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+
+}

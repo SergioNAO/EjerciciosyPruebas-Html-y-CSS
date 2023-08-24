@@ -1,0 +1,57 @@
+body{
+    background-color: darkkhaki;
+}
+
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+h2{
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+
+img{
+    height: 200px;
+    background-color: plum;
+    float: left;
+}
+
+hr{
+    clear: both;
+}
+
+div{    
+    width: 200px;
+    display: inline-block;
+}
+
+#art1{
+    padding: 10px;
+    margin: 10px;
+    background-color: palegreen;
+}
+
+#art2{
+    background-color: crimson;
+}
+
+#art3{
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+#audio{
+    position:relative;
+    width: 300px;
+    top: -40px;
+}
+
+video{
+    width: 150px;
+    
+}

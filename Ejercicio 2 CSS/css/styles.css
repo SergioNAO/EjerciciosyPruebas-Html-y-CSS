@@ -1,0 +1,21 @@
+body{
+    background-color: #47126b
+}   
+
+header{
+   justify-content: center;
+    display: flex;
+}
+
+h1{
+    background-color: #973aa8 ;
+    font-size: 40px;
+    color: #ea698b;
+    width: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.img{
+    width: 200px;
+}

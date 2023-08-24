@@ -1,0 +1,48 @@
+header{
+    justify-content: center;
+     display: flex;
+ }
+ 
+ body{
+    background-color: #2364aa;
+ }
+
+h1{
+    background-color: #ea7317 ;
+    color: #fec601;
+    width: 350px;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid #fec601;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: cell;
+    /*background-color: pink;*/
+}
+
+button{
+    font-size: 30px;
+    background-color: #73bfb8;
+    border-radius: 45px;
+    margin: 10px;
+    padding: 20px;
+    cursor:cell;
+    color: #2364aa;
+}
+
+button:hover{
+    background-color: #fec601;
+    color: #ea7317;
+
+}
+
+article{
+    justify-content: center;
+    display: flex;
+}
+

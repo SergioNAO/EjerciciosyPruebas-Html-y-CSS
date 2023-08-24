@@ -1,0 +1,23 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    position:relative;
+    
+}
+
+p{  
+    /*position:relative ;*/
+    width: 200px;
+    /*height: 100px;*/
+    background-color: aqua;
+    overflow: auto;
+    display: inline-block;
+}

@@ -1,0 +1,53 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+p{
+    background-color: violet;
+}
+
+h6{
+    background-color: aqua;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    background-color: mediumslateblue;
+    
+}
+
+header{
+    background-color: tomato;
+}
+
+nav{
+    background-color: burlywood;
+}
+
+section{
+    background-color: yellowgreen;
+    float: left;
+    width: 80%;
+}
+
+aside{
+    background-color: orange;
+    float: left;
+    width: 20%;
+}
+
+footer{
+    background-color: darkcyan;
+    display: inline-block;
+    clear: both;
+    padding: 5px;
+    height: 160px;
+}
+
+article{
+    padding: 5px;
+}

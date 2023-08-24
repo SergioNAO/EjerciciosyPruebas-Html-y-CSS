@@ -1,0 +1,12 @@
+body{
+    background-color: #eacdc2;
+}
+
+h1{
+    font-size: 20px;
+    background-color: #ffc9b9;
+    color: #372549;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid #774c60;
+}

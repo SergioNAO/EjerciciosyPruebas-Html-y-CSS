@@ -1,0 +1,20 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+p{
+    background-color: violet;
+}
+
+h6{
+    background-color: aqua;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    background-color: mediumslateblue;
+}

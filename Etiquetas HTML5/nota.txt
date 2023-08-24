@@ -1,0 +1,4 @@
+En esta secion se vio la manera de como redireccionar a diferentes paginas
+incluso internamente navergar entre carpetas y distintas web
+los puntos son clave para ver que tanto retrocede en las carpetas e incluso 
+sin punto se puede ir a la carpeta raiz

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="img/kakashi.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Formularios</h1>
+
+    <form action="#" method="post">
+    <legend>Formulario de Contacto</legend><br>
+    <label for="Nombre">Nombre: </label>
+    <input type="text" id="nombre" placeholder="juanito">    
+        <br><br>
+    <label for="password">Contraseña: </label>
+    <input type="password" name="password" required placeholder="tamal">
+    <br><br>
+
+    <textarea name="datos" id="datos" cols="20" rows="5"></textarea>
+        <br><br>
+    <input type="radio" name="genero" value="Masculino">Masculino
+    <input type="radio" name="genero" value="Femenino">Femenino
+        <br><br>
+    <select name="genero" id="">
+        <option value="Masculino">Masculino</option>
+        <option value="Femenino">Femenino</option>
+        <option value="NoBinario">No Binario</option>
+    </select>
+    <br><br>
+
+    <label for="">Check</label>
+    <input type="checkbox" name="" id="" checked="checked">
+    <br><br>
+    <input type="number" name="numero" min="2" max="10">
+    <br><br>
+    <input type="date">
+    <br><br>
+    <input type="color">
+    <hr>
+    <input type="submit" name="enviar" id="enviar">
+    </form>
+
+</body>
+</html>

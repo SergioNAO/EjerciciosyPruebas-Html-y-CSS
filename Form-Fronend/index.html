@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form en HTML</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="shortcut icon" href="SRC/map.png" type="image/x-icon">
+</head>
+<body>
+    <div class="contenedor">
+        <h2>Acceso</h2>
+        <form id="Formulario" name="formulario" method="post"> <!--Otra opcion es GET pero es menos segura-->
+            <div class="item">
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" name="nombre" required="true">
+            </div>
+
+            <div class="item">
+                <label for="Contraseña">Contraseña</label>
+                <input type="password" id="pass" name="pass" required="true">
+            </div>
+
+            <div class="boton">
+                <input type="submit" value="Entrar">
+            </div>
+        </form>
+
+    </div>
+</body>
+</html>
