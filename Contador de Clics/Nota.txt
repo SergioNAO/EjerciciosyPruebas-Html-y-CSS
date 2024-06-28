@@ -1,0 +1,2 @@
+Proyecto simple que se utilizo como ejercicio para practicar
+la manipulacion del DOM con Javascript y un poco de estilos CSS.
