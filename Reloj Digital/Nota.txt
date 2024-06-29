@@ -1,0 +1,1 @@
+Reloj digital con formato de 12 horas, muestra dia, numero, mes y año.
