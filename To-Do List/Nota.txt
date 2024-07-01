@@ -1,0 +1,2 @@
+Proyecto en el que se aplica la manipulacion del DOM, eventos de javascript
+y un poco de estilos css.
