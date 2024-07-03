@@ -1,0 +1,2 @@
+Ejercicio de creacion de cronometro ayuda a practicar la manipulación 
+del DOM, el manejo de eventos y el uso de temporizadores en JavaScript.
