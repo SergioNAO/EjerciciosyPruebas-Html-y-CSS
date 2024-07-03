@@ -1,0 +1,5 @@
+Clicker automatico el cual funciona seleccionando una cordenada y una vez seleccionada
+Clicker sobre el boton iniciar, la cordenada puede ser visible y que se muestra con un
+punto rojo.
+
+Este ejercicio ayuda a la manupulacion del DOM, manejo de eventos en JS y el uso de intervalos.
